@@ -15,19 +15,22 @@ Offsite Payments has been in production use (originally as part of the [ActiveMe
 
 ### From Git
 
-You can check out the latest source from git:
+You can check out the latest original source from git:
 
     git clone https://github.com/activemerchant/offsite_payments.git
+
+Or the customized
+    git clone https://github.com/d4nnguyen/offsite_payments.git
 
 ### From RubyGems
 
 Installation from RubyGems:
 
-    gem install offsite_payments
+    gem install offsite_payments, git: 'https://github.com/d4nnguyen/offsite_payments.git'
 
 Or, if you're using Bundler, just add the following to your Gemfile:
 
-    gem 'offsite_payments'
+    gem 'offsite_payments', git: 'https://github.com/d4nnguyen/offsite_payments.git'
 
 [API documentation](http://www.rubydoc.info/github/activemerchant/offsite_payments/master).
 
