@@ -1,3 +1,5 @@
+# THIS IS A CUSTOM GEM USED FOR VBA-TICKET A PROJECT OF SAIGON SILICON STRAITS
+
 # Offsite Payments
 [![Build Status](https://travis-ci.org/activemerchant/offsite_payments.svg?branch=master)](https://travis-ci.org/activemerchant/offsite_payments)
 [![Code Climate](https://codeclimate.com/github/activemerchant/offsite_payments/badges/gpa.svg)](https://codeclimate.com/github/activemerchant/offsite_payments)
