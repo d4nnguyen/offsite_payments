@@ -15,11 +15,8 @@ Offsite Payments has been in production use (originally as part of the [ActiveMe
 
 ### From Git
 
-You can check out the latest original source from git:
+From git:
 
-    git clone https://github.com/activemerchant/offsite_payments.git
-
-Or the customized
     git clone https://github.com/d4nnguyen/offsite_payments.git
 
 ### From RubyGems
